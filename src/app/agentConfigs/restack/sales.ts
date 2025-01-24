@@ -38,6 +38,7 @@ const salesAgent: AgentConfig = {
             input: {
               category,
             },
+            action: "run",
           },
           {
             headers: {
